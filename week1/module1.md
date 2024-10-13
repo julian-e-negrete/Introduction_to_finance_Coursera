@@ -159,3 +159,69 @@
 - Lack of uniformity with state laws: LLCs have businesses that span several states which may not receive the same treatment.  
   
 - Unable to issue stock: not suitable for businesses that expect to expand in the future.  
+
+
+# The Goal of Financial Managment
+
+- For a public company the goal is to maximize the current share value of the existing stock. 
+  
+- if the company does not have stocks traded in the stock market, the goal is to maximize share holder wealth.  
+  
+- share holders are owners of the company, if the value of a company grows the shares also worth more.  
+  
+- Why maximizing profit not the goal?  
+
+    - the profit is not a accounting term, and is easily manipulated.  
+
+- Is there a conflic between the goal of maiximizing the current value of the stock and other goals, such as employee safety, customer satisfaction and enviromental protection?  
+  
+    - In general this goals are not conflicted with each other because the stock market is larger efficient.  
+
+- Who are the stakeholder of a company? Employees, customers, suppliers, creditors, and the society.  
+  
+
+## companies are investing in their Employees
+
+- Offer benefits to employees.  
+  
+- Improve the working environment.  
+  
+- invest in employee training.  
+  
+- Help employees to achieve professional goals.  
+
+
+## Improve customer satisfaction
+
+- Deliver high quality products and services.  
+  
+- Foster sustained innovation.  
+  
+- Remain competitive in the industry.  
+
+
+
+
+# Corporate Governance
+
+- Corporate governance specifies the system of rules, practices, and procedures by which corporations are managed and controled.  
+  
+- Good corporate governance helps the company to achieve its goal.  
+  
+- Share holders are the owners of stocks issued by the company. Shareholders can be individuals or institutions.  
+
+-  Mayority(> 50%) vs minority(< 50%) shareholders.  
+  
+## Shareholders Rights  
+  
+- The right to vote on important corporate issues.  
+  
+- The right to receive dividends.  
+
+
+## Board of directors
+
+- The directors are elected by shareholders to represent the interest of shareholders and make sure that the company's managment acts on their behalf.  
+  
+
+     
